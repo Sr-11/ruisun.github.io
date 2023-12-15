@@ -1,20 +1,17 @@
-## Homepage Under Construction
-### Rui Sun
+## Rui Sun
 Email: eruisun@mit.edu
 
-I am a junior student at MIT, majoring in math and physics. Prior to that, I was an undergraduate at Peking University.
+(Under construction) I am a junior student at MIT, majoring in math and physics. Prior to that, I was an undergraduate at Peking University. I have a broad interest in statistics and machine learning, including ...
 
 ### Publications
-Kernel-Based Tests for Likelihood-Free Hypothesis Testing
+1. Kernel-Based Tests for Likelihood-Free Hypothesis Testing
 										Patrik Róbert Gerber, Tianze Jiang, Yury Polyanskiy, Rui Sun
 Accepted by NeurIPS2023.
 
-#### Field 2
-Density Estimation using the Perceptron 
+2. Density Estimation using the Perceptron 
 	Patrik Róbert Gerber, Tianze Jiang, Yury Polyanskiy, Rui Sun
 In progress, will be available on arXiv
 
-#### Field 3
-Interpretable Style Swapping with a Symmetric Autoencoder.
-
+3. Interpretable Style Swapping with a Symmetric Autoencoder.
+<https://github.com/Sr-11/ruisun.github.io/blob/gh-pages/Rui%20Symmetric%20autoencoder%20for%20redatuming.pdf>
 
