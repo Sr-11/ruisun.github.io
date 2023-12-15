@@ -1,4 +1,4 @@
-## Rui Sun
+### Rui Sun
 Email: eruisun@mit.edu
 
  I am a junior student at MIT, majoring in math and physics. Prior to that, I was an undergraduate at Peking University. I have a broad interest in statistics and machine learning, including decision theory, ...
