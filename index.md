@@ -15,3 +15,5 @@ In progress, will be available on arXiv
 3. Interpretable Style Swapping with a Symmetric Autoencoder.
 <https://github.com/Sr-11/ruisun.github.io/blob/gh-pages/Rui%20Symmetric%20autoencoder%20for%20redatuming.pdf>
 
+### Photo
+<img src="https://github.com/Sr-11/ruisun.github.io/blob/gh-pages/Sr1.jpg" width="100px">
